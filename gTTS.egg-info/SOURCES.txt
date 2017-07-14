@@ -1,0 +1,14 @@
+CHANGELOG.md
+MANIFEST.in
+README.md
+setup.py
+bin/gtts-cli
+bin/gtts-cli.py
+gTTS.egg-info/PKG-INFO
+gTTS.egg-info/SOURCES.txt
+gTTS.egg-info/dependency_links.txt
+gTTS.egg-info/requires.txt
+gTTS.egg-info/top_level.txt
+gtts/__init__.py
+gtts/tts.py
+gtts/version.py

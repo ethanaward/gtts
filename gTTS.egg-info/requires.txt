@@ -1,0 +1,2 @@
+requests
+gtts_token
