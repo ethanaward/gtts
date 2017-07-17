@@ -1,5 +1,5 @@
-gtts (1.1.8-0ubuntu1~ubuntu17.04~ppa7) zesty; urgency=medium
+gtts (1.1.8-1) UNRELEASED; urgency=medium
 
-  * Update dependencies
+  * Initial Debian release
 
- -- Mycroft Devs <devops@mycroft.ai>  Thu, 25 May 2017 09:53:40 -0500
+ -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 July 2017 09:53:40 -0500
