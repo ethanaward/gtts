@@ -1,5 +1,5 @@
 gtts (1.1.8-1) UNRELEASED; urgency=medium
 
-  * Initial Debian release
+  * Initial Debian packaging (closes: #869102)
 
- -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 July 2017 09:53:40 -0500
+ -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 09:53:40 -0500
